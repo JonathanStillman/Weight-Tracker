@@ -22,7 +22,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/JonathanStillman/Weight-Tracker.git
 
 # Go into the repository
-$ cd discordbot
+$ cd Weight-Tracker
 
 # Install dependencies
 $ npm install
