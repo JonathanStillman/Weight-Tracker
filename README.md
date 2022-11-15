@@ -19,7 +19,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/JonathanStillman/discordbot.git
+$ git clone https://github.com/JonathanStillman/Weight-Tracker.git
 
 # Go into the repository
 $ cd discordbot
@@ -28,7 +28,7 @@ $ cd discordbot
 $ npm install
 
 # Run the app
-$ npm run test
+$ npm run dev
 ```
 
 > **Note**
