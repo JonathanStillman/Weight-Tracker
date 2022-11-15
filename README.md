@@ -1,7 +1,12 @@
 # Weight Tracker
+### Overview
+This Weight Tracker Application allows a user to input their desired weight in (kg), in which this will be graphed and recorded. This weight will also be record with a date.
+
+https://user-images.githubusercontent.com/68572893/201969552-0ae8b8bb-8af0-4aa2-b482-dabf204806a6.mov
 
 
-https://user-images.githubusercontent.com/68572893/201968976-0c464f94-1b2e-4756-bed4-2e7b54ea3eb0.mov
+
+
 
 
 ## Recommended IDE Setup
